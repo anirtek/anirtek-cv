@@ -1,4 +1,4 @@
-Aniruddha Tekade's Resume
+Aniruddha's Resume
 ===========
 anirtek-cv is a LuaLaTeX class for building neat and space-efficient CVs using the design originally proposed by Gayle L. McDowell at http://www.careercup.com/resume and the original Github repo is available at https://github.com/dnl-blkv/mcdowell-cv from where this repositoy has been forked and modified. Thank you so much Gayle McDowell. 
 
