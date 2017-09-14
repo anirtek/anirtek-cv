@@ -6,7 +6,7 @@ The class is based on `article` class. The paper format is set to U.S. letterpap
 
 Screenshot
 ----------
-<img src="https://github.com/dnl-blkv/mcdowell-cv/blob/master/McDowell_CV.png" width="240px"/>
+<img src="https://github.com/dnl-blkv/mcdowell-cv/blob/master/anirtek_CV.png" width="240px"/>
 
 Use Cases
 ---------
